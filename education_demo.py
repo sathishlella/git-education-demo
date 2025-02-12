@@ -783,3 +783,8 @@ def demo_function_120():
     print("Educational Git demo - commit 120")
     return 9
 
+# Educational demo function 121
+def demo_function_121():
+    print("Educational Git demo - commit 121")
+    return 4
+
